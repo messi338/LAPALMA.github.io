@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.h2
+{
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+}
+
+.contenedor
+{
+    margin: auto;
+    width: 100%;
+}
+
+body{
+    
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #031321;
+    font-family: consolas;
+    background-color: blue;
+    
+}
+
+body{
+    padding: 0 100px;
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: darkblue;
+    background: url(../logopalmanegro.jpg);
+    background-size:100% 100%;
+    background-attachment:fixed;
+    align-items: center;
+    
+}
+.carouselExampleIndicators{
+    border-radius: 50px;
+}
+
+.boton{
+display: inline-block;
+width: 150px;
+padding: 12px;
+background: green;
+text-decoration: none;
+color: blue;
+border-radius: 100px;
+text-align: center;
+font-size: 14px;
+font-weight: 600;
+margin: auto;
+position: relative;
+top:50px;
+bottom:0px;
+right:0px;
+left: 200px;
+
+}
+
+.login{
+    display: inline-block;
+    width: 150px;
+    padding: 12px;
+    background: green;
+    text-decoration: none;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    margin: auto;
+    position: relative;
+    top:100;
+    bottom:450px;
+    right:200px;
+    left:600px;
+}
+
+.register
+{
+    display: inline-block;
+    width: 150px;
+    padding: 12px;
+    background: green;
+    text-decoration: none;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    margin: auto;
+    position: relative;
+    top:100;
+    bottom:450px;
+    right:70px;
+    left:70px; 
+}
+
+.text
+{
+display: inline-block;
+width: 150px;
+padding: 12px;
+background: green;
+text-decoration: none;
+color: white;
+border-radius: 100px;
+text-align: center;
+font-size: 14px;
+font-weight: 600;
+margin: auto;
+position: absolute;
+top: 40px; left: 40px;
+top: 40px; left: 40px;
+top:100px;
+bottom: 10px;;
+right: 10px;
+left: 10px;
+}
+
+.esfera
+{
+  position: relative;
+  left: 120px; right: 120px;
+  width: -50%;
+  
+  
+  
+}
+
+.esferate
+{
+
+position: relative;
+top: 120px; left: 120px;
+text-align: center;    
+}
+
+.caja_columna
+{
+    color: #fff;
+    background: #0f222b;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 390px;
+    margin: 10px;
+}
+
+.caja_columna .texto
+{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 15px;
+    bottom: 5px;
+    border: 2px solid #69ca69;
+    padding: 5px;
+}
+
+
